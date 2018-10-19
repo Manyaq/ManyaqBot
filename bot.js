@@ -14,7 +14,7 @@ const log = message => {
 };
 
 client.on("ready", () => {
-   client.user.setGame(prefix + `yardım | ${client.guilds.size} Sunucuya ve ${client.users.size} Kullanıcıya Hizmet Veriliyor | Manyaq Bot`)
+   client.user.setGame(prefix + `yardım | Botumuz Artık 7/24 Aktif! | ${client.guilds.size} Sunucuya Hizmet Veriliyor | Manyaq Bot`)
   console.log("Bağlandım!")
 });
 
