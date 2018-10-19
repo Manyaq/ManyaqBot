@@ -3,5 +3,5 @@ title Manyaq Bot
 color 0f
 cls
 :a
-node bot.js
+node bot.
 goto a
